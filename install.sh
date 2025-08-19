@@ -7,7 +7,7 @@
 set -euo pipefail
 
 # ВАЖНО: Замените YOUR_GITHUB_USERNAME на ваше имя пользователя!
-GITHUB_USERNAME="YOUR_GITHUB_USERNAME"
+GITHUB_USERNAME="5856607"
 REPO_NAME="ubuntu-server-automation"
 REPO_URL="https://raw.githubusercontent.com/$GITHUB_USERNAME/$REPO_NAME/main"
 INSTALL_DIR="/opt/ubuntu-automation"
